@@ -1,6 +1,8 @@
 # Part of another project
 Not a stand-alone repo.
 
+From other projects would link to the FUBAR.md file.
+
 ### FUBAR
 [Fubar](FUBAR.md)
 Definition:  out of working order; seriously, perhaps irreparably, damaged.
